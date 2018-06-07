@@ -9,8 +9,8 @@
 :: to avoid https://github.com/npm/npm/issues/6438
 chcp 850 
 
-set NODE_VERSION=6.11.3
-set NPM_VERSION=4.6.0
+set NODE_VERSION=8.11.2
+set NPM_VERSION=5.6.0
 
 :: Add Git to the path as this should be run through a .NET command prompt
 :: and not a Git bash shell... We also need the gnu toolchain (for curl & unzip)

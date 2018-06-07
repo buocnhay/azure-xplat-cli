@@ -1,3 +1,7 @@
+## 2018-06-06 Version 0.10.19
+* ASM - Network
+  * Fixed incorrect assignment of idleTimeout in ASM's LB Set #3687
+
 ## 2018-03-23 Version 0.10.18
 * General
   * cloud shell: able to work with accounts created by CLI 2.0 in the cloud shell  #3684
